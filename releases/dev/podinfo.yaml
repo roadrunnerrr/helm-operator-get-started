@@ -12,7 +12,7 @@ spec:
   chart:
     git: git@github.com:roadrunnerrr/helm-operator-get-started
     path: charts/podinfo
-    ref: master
+    ref: dev
   values:
     image:
       repository: roadrunnerrr/podinfo
