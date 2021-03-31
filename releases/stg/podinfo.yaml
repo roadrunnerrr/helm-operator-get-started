@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: roadrunnerrr/podinfo
-      tag: stg-3irhmc6d
+      tag: stg-u3qc9onb
     replicaCount: 2
     hpa:
       enabled: true
