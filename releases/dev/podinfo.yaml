@@ -12,11 +12,11 @@ spec:
   chart:
     git: git@github.com:roadrunnerrr/helm-operator-get-started
     path: charts/podinfo
-    ref: master
+    ref: dev
   values:
     image:
       repository: roadrunnerrr/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-3irhmc6d
     replicaCount: 1
     hpa:
       enabled: false
