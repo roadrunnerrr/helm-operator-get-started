@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: roadrunnerrr/podinfo
-      tag: dev-3irhmc6d
+      tag: dev-uek7tllh
     replicaCount: 1
     hpa:
       enabled: false
